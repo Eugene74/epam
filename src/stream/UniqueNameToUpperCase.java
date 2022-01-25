@@ -8,7 +8,7 @@ package stream;
 import java.util.Arrays;
 import java.util.List;
 
-public class UniqNameToUpperCase {
+public class UniqueNameToUpperCase {
     public static void main(String[] args) {
         List<String> names = Arrays.asList("ivan", "", "    ", null, "ivan", "nastya");
         System.out.println("--------imperative-----------");
